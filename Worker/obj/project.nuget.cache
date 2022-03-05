@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MAKNHScLj9QBWCUj8Jkxkrk5+op8gxJoK4pBtKPsHaZDHBDKAQBjNGmY8vfeVyY9XbjEVTxP5R9qZRrVUWLBcw==",
+  "dgSpecHash": "+e9IoKJIK0nMPTf0a8cfWl4z+S51S5KcoKMXtScBvTf/rPni3JQby6w4joEudRKRpGcmFGPBytmokasrby/vhw==",
   "success": true,
   "projectFilePath": "C:\\Users\\p.rostami\\source\\repos\\Sandbox\\Worker\\Worker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",

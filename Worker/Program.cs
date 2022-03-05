@@ -1,9 +1,11 @@
-using Sandbox.Worker;
+using Core.Services;
+using Worker.Services;
 
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices(services =>
     {
-        services.AddHostedService<Worker>();
+        services.AddHostedService<Sandbox.Worker.Worker>();
+        services.AddSingleton<IFieldNameProvider, FieldNameProvider>();
     })
     .Build();
 
