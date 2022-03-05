@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFbMv7FIxmxY9tNcKiNyescD/8JXJY3iO4JiuETgWz+9Q76/hIeyI/N42x9213aWRLS27/4vBes1aVrFIH2c5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p.rostami\\source\\repos\\Sandbox\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\p.rostami\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\p.rostami\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
